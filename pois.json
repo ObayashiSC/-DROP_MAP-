@@ -43,7 +43,7 @@
         },
         {
             "event_id": "EV02000004",
-            "event_name": "グラングリーン大阪",
+            "event_name": "グラングリーン大阪 南館バレースペース",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000004_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -81,7 +81,7 @@
         },
         {
             "event_id": "EV02000006",
-            "event_name": "グランフロント大阪 うめきた広場 他",
+            "event_name": "グランフロント大阪 うめきた広場 ほか",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000006_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -119,7 +119,7 @@
         },
         {
             "event_id": "EV02000008",
-            "event_name": "阪急メンズ大阪",
+            "event_name": "阪急メンズ大阪 1階 プロモーションスペース 11",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000008_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -138,7 +138,7 @@
         },
         {
             "event_id": "EV02000009",
-            "event_name": "阪急うめだ本店",
+            "event_name": "阪急うめだ本店 9階 祝祭広場",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000009_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -176,7 +176,7 @@
         },
         {
             "event_id": "EV02000011",
-            "event_name": "大阪ステーションシティノースゲートビル3階",
+            "event_name": "大阪ステーションシティ インフォメーション前（大阪駅3階南北連絡橋）",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000011_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -214,7 +214,7 @@
         },
         {
             "event_id": "EV02000013",
-            "event_name": "APイノゲート大阪",
+            "event_name": "ミーティングスペース APイノゲート大阪",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000013_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -233,7 +233,7 @@
         },
         {
             "event_id": "EV02000014",
-            "event_name": "大阪駅御堂筋口デジタルサイネージ",
+            "event_name": "JR大阪駅 御堂筋南口ビジョン",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000014_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -290,7 +290,7 @@
         },
         {
             "event_id": "EV02000017",
-            "event_name": "阪神梅田本店 8階 催事場",
+            "event_name": "阪神梅田本店 8階 催場 / アートギャラリー",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000017_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -309,7 +309,7 @@
         },
         {
             "event_id": "EV02000018",
-            "event_name": "ＡＰ大阪駅前",
+            "event_name": "ミーティングスペース AP大阪駅前 APホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000018_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -347,7 +347,7 @@
         },
         {
             "event_id": "EV02000020",
-            "event_name": "翠波画廊大阪店",
+            "event_name": "翠波画廊 大阪店",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000020_01_s.png",
             "category": {
                 "category_id": "MC00000001",
@@ -404,7 +404,7 @@
         },
         {
             "event_id": "EV02000025",
-            "event_name": "Ritzwell 大阪ショールーム（堂島リバーフォーラム）",
+            "event_name": "Ritzwell 大阪ショールーム",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000025_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -499,7 +499,7 @@
         },
         {
             "event_id": "EV02000030",
-            "event_name": "アートエリアB1",
+            "event_name": "アートエリア B1",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000030_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -537,7 +537,7 @@
         },
         {
             "event_id": "EV02000032",
-            "event_name": "淀屋橋ステーションワン",
+            "event_name": "淀屋橋ステーションワン B1 淀屋橋広場",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000032_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -594,7 +594,7 @@
         },
         {
             "event_id": "EV02000035",
-            "event_name": "WAILEA御堂筋",
+            "event_name": "WAILEA",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000035_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -632,7 +632,7 @@
         },
         {
             "event_id": "EV02000037",
-            "event_name": "Osaka Metro 本町ビル",
+            "event_name": "Osaka Metro 本町ビル エントランスホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000037_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -651,7 +651,7 @@
         },
         {
             "event_id": "EV02000038",
-            "event_name": "JR大阪環状線 西九条駅高架下",
+            "event_name": "JR大阪環状線 西九条駅 高架下",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -727,7 +727,7 @@
         },
         {
             "event_id": "EV02000042",
-            "event_name": "クリスタ長堀 滝の広場",
+            "event_name": "クリスタ長堀 滝の広場・南側",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000042_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -765,7 +765,7 @@
         },
         {
             "event_id": "EV02000044",
-            "event_name": "心斎橋PARCO",
+            "event_name": "心斎橋 PARCO",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000044_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -860,7 +860,7 @@
         },
         {
             "event_id": "EV02000049",
-            "event_name": "JITSUZAISEI",
+            "event_name": "実在性",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000049_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -936,7 +936,7 @@
         },
         {
             "event_id": "EV02000055",
-            "event_name": "RID",
+            "event_name": "RID（デザインスタジオ内）",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000055_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -1012,7 +1012,7 @@
         },
         {
             "event_id": "EV02000059",
-            "event_name": "ART community space Nano Gallery",
+            "event_name": "Nano Gallery",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000059_01_s.jpg",
             "category": {
                 "category_id": "MC00000001",
@@ -1126,7 +1126,7 @@
         },
         {
             "event_id": "EV02000006",
-            "event_name": "グランフロント大阪 うめきた広場 他",
+            "event_name": "グランフロント大阪 うめきた広場 ほか",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000006_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1164,7 +1164,7 @@
         },
         {
             "event_id": "EV02000008",
-            "event_name": "阪急メンズ大阪",
+            "event_name": "阪急メンズ大阪 1階 プロモーションスペース 11",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000008_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1183,7 +1183,7 @@
         },
         {
             "event_id": "EV02000009",
-            "event_name": "阪急うめだ本店",
+            "event_name": "阪急うめだ本店 9階 祝祭広場",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000009_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1221,7 +1221,7 @@
         },
         {
             "event_id": "EV02000011",
-            "event_name": "大阪ステーションシティノースゲートビル3階",
+            "event_name": "大阪ステーションシティ インフォメーション前（大阪駅3階南北連絡橋）",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000011_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1259,7 +1259,7 @@
         },
         {
             "event_id": "EV02000013",
-            "event_name": "APイノゲート大阪",
+            "event_name": "ミーティングスペース APイノゲート大阪",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000013_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1278,7 +1278,7 @@
         },
         {
             "event_id": "EV02000014",
-            "event_name": "大阪駅御堂筋口デジタルサイネージ",
+            "event_name": "JR大阪駅 御堂筋南口ビジョン",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000014_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1335,7 +1335,7 @@
         },
         {
             "event_id": "EV02000018",
-            "event_name": "ＡＰ大阪駅前",
+            "event_name": "ミーティングスペース AP大阪駅前 APホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000018_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1373,7 +1373,7 @@
         },
         {
             "event_id": "EV02000020",
-            "event_name": "翠波画廊大阪店",
+            "event_name": "翠波画廊 大阪店",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000020_01_s.png",
             "category": {
                 "category_id": "MC00000002",
@@ -1468,7 +1468,7 @@
         },
         {
             "event_id": "EV02000025",
-            "event_name": "Ritzwell 大阪ショールーム（堂島リバーフォーラム）",
+            "event_name": "Ritzwell 大阪ショールーム",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000025_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1563,7 +1563,7 @@
         },
         {
             "event_id": "EV02000030",
-            "event_name": "アートエリアB1",
+            "event_name": "アートエリア B1",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000030_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1601,7 +1601,7 @@
         },
         {
             "event_id": "EV02000032",
-            "event_name": "淀屋橋ステーションワン",
+            "event_name": "淀屋橋ステーションワン B1 淀屋橋広場",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000032_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1658,7 +1658,7 @@
         },
         {
             "event_id": "EV02000035",
-            "event_name": "WAILEA御堂筋",
+            "event_name": "WAILEA",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000035_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1696,7 +1696,7 @@
         },
         {
             "event_id": "EV02000037",
-            "event_name": "Osaka Metro 本町ビル",
+            "event_name": "Osaka Metro 本町ビル エントランスホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000037_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1715,7 +1715,7 @@
         },
         {
             "event_id": "EV02000038",
-            "event_name": "JR大阪環状線 西九条駅高架下",
+            "event_name": "JR大阪環状線 西九条駅 高架下",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1791,7 +1791,7 @@
         },
         {
             "event_id": "EV02000042",
-            "event_name": "クリスタ長堀 滝の広場",
+            "event_name": "クリスタ長堀 滝の広場・南側",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000042_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1829,7 +1829,7 @@
         },
         {
             "event_id": "EV02000044",
-            "event_name": "心斎橋PARCO",
+            "event_name": "心斎橋 PARCO",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000044_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -1924,7 +1924,7 @@
         },
         {
             "event_id": "EV02000049",
-            "event_name": "JITSUZAISEI",
+            "event_name": "実在性",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000049_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -2000,7 +2000,7 @@
         },
         {
             "event_id": "EV02000055",
-            "event_name": "RID",
+            "event_name": "RID（デザインスタジオ内）",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000055_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -2057,7 +2057,7 @@
         },
         {
             "event_id": "EV02000059",
-            "event_name": "ART community space Nano Gallery",
+            "event_name": "Nano Gallery",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000059_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -2076,7 +2076,7 @@
         },
         {
             "event_id": "EV02000060",
-            "event_name": "ギャラリーと雑貨・太陽とハリネズミ",
+            "event_name": "太陽とハリネズミ",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000060_01_s.jpg",
             "category": {
                 "category_id": "MC00000002",
@@ -2190,7 +2190,7 @@
         },
         {
             "event_id": "EV02000006",
-            "event_name": "グランフロント大阪 うめきた広場 他",
+            "event_name": "グランフロント大阪 うめきた広場 ほか",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000006_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2247,7 +2247,7 @@
         },
         {
             "event_id": "EV02000011",
-            "event_name": "大阪ステーションシティノースゲートビル3階",
+            "event_name": "大阪ステーションシティ インフォメーション前（大阪駅3階南北連絡橋）",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000011_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2285,7 +2285,7 @@
         },
         {
             "event_id": "EV02000013",
-            "event_name": "APイノゲート大阪",
+            "event_name": "ミーティングスペース APイノゲート大阪",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000013_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2304,7 +2304,7 @@
         },
         {
             "event_id": "EV02000014",
-            "event_name": "大阪駅御堂筋口デジタルサイネージ",
+            "event_name": "JR大阪駅 御堂筋南口ビジョン",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000014_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2361,7 +2361,7 @@
         },
         {
             "event_id": "EV02000018",
-            "event_name": "ＡＰ大阪駅前",
+            "event_name": "ミーティングスペース AP大阪駅前 APホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000018_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2399,7 +2399,7 @@
         },
         {
             "event_id": "EV02000020",
-            "event_name": "翠波画廊大阪店",
+            "event_name": "翠波画廊 大阪店",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000020_01_s.png",
             "category": {
                 "category_id": "MC00000003",
@@ -2551,7 +2551,7 @@
         },
         {
             "event_id": "EV02000030",
-            "event_name": "アートエリアB1",
+            "event_name": "アートエリア B1",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000030_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2589,7 +2589,7 @@
         },
         {
             "event_id": "EV02000032",
-            "event_name": "淀屋橋ステーションワン",
+            "event_name": "淀屋橋ステーションワン B1 淀屋橋広場",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000032_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2646,7 +2646,7 @@
         },
         {
             "event_id": "EV02000035",
-            "event_name": "WAILEA御堂筋",
+            "event_name": "WAILEA",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000035_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2684,7 +2684,7 @@
         },
         {
             "event_id": "EV02000037",
-            "event_name": "Osaka Metro 本町ビル",
+            "event_name": "Osaka Metro 本町ビル エントランスホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000037_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2703,7 +2703,7 @@
         },
         {
             "event_id": "EV02000038",
-            "event_name": "JR大阪環状線 西九条駅高架下",
+            "event_name": "JR大阪環状線 西九条駅 高架下",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2779,7 +2779,7 @@
         },
         {
             "event_id": "EV02000042",
-            "event_name": "クリスタ長堀 滝の広場",
+            "event_name": "クリスタ長堀 滝の広場・南側",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000042_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2817,7 +2817,7 @@
         },
         {
             "event_id": "EV02000044",
-            "event_name": "心斎橋PARCO",
+            "event_name": "心斎橋 PARCO",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000044_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2912,7 +2912,7 @@
         },
         {
             "event_id": "EV02000049",
-            "event_name": "JITSUZAISEI",
+            "event_name": "実在性",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000049_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -2969,7 +2969,7 @@
         },
         {
             "event_id": "EV02000053",
-            "event_name": "Laugh & Peace Art Gallery",
+            "event_name": "ラフアンドピースアートギャラリー",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000053_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -3007,7 +3007,7 @@
         },
         {
             "event_id": "EV02000055",
-            "event_name": "RID",
+            "event_name": "RID（デザインスタジオ内）",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000055_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -3064,7 +3064,7 @@
         },
         {
             "event_id": "EV02000059",
-            "event_name": "ART community space Nano Gallery",
+            "event_name": "Nano Gallery",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000059_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -3083,7 +3083,7 @@
         },
         {
             "event_id": "EV02000060",
-            "event_name": "ギャラリーと雑貨・太陽とハリネズミ",
+            "event_name": "太陽とハリネズミ",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000060_01_s.jpg",
             "category": {
                 "category_id": "MC00000003",
@@ -3178,7 +3178,7 @@
         },
         {
             "event_id": "EV02000006",
-            "event_name": "グランフロント大阪 うめきた広場 他",
+            "event_name": "グランフロント大阪 うめきた広場 ほか",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000006_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3235,7 +3235,7 @@
         },
         {
             "event_id": "EV02000011",
-            "event_name": "大阪ステーションシティノースゲートビル3階",
+            "event_name": "大阪ステーションシティ インフォメーション前（大阪駅3階南北連絡橋）",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000011_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3273,7 +3273,7 @@
         },
         {
             "event_id": "EV02000013",
-            "event_name": "APイノゲート大阪",
+            "event_name": "ミーティングスペース APイノゲート大阪",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000013_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3292,7 +3292,7 @@
         },
         {
             "event_id": "EV02000014",
-            "event_name": "大阪駅御堂筋口デジタルサイネージ",
+            "event_name": "JR大阪駅 御堂筋南口ビジョン",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000014_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3349,7 +3349,7 @@
         },
         {
             "event_id": "EV02000018",
-            "event_name": "ＡＰ大阪駅前",
+            "event_name": "ミーティングスペース AP大阪駅前 APホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000018_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3387,7 +3387,7 @@
         },
         {
             "event_id": "EV02000020",
-            "event_name": "翠波画廊大阪店",
+            "event_name": "翠波画廊 大阪店",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000020_01_s.png",
             "category": {
                 "category_id": "MC00000004",
@@ -3520,7 +3520,7 @@
         },
         {
             "event_id": "EV02000030",
-            "event_name": "アートエリアB1",
+            "event_name": "アートエリア B1",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000030_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3539,7 +3539,7 @@
         },
         {
             "event_id": "EV02000032",
-            "event_name": "淀屋橋ステーションワン",
+            "event_name": "淀屋橋ステーションワン B1 淀屋橋広場",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000032_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3596,7 +3596,7 @@
         },
         {
             "event_id": "EV02000035",
-            "event_name": "WAILEA御堂筋",
+            "event_name": "WAILEA",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000035_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3634,7 +3634,7 @@
         },
         {
             "event_id": "EV02000037",
-            "event_name": "Osaka Metro 本町ビル",
+            "event_name": "Osaka Metro 本町ビル エントランスホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000037_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3653,7 +3653,7 @@
         },
         {
             "event_id": "EV02000038",
-            "event_name": "JR大阪環状線 西九条駅高架下",
+            "event_name": "JR大阪環状線 西九条駅 高架下",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3862,7 +3862,7 @@
         },
         {
             "event_id": "EV02000053",
-            "event_name": "Laugh & Peace Art Gallery",
+            "event_name": "ラフアンドピースアートギャラリー",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000053_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3919,7 +3919,7 @@
         },
         {
             "event_id": "EV02000059",
-            "event_name": "ART community space Nano Gallery",
+            "event_name": "Nano Gallery",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000059_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
@@ -3938,7 +3938,7 @@
         },
         {
             "event_id": "EV02000060",
-            "event_name": "ギャラリーと雑貨・太陽とハリネズミ",
+            "event_name": "太陽とハリネズミ",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000060_01_s.jpg",
             "category": {
                 "category_id": "MC00000004",
