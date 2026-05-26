@@ -23,25 +23,6 @@
     ],
     "pois": [
         {
-            "event_id": "EV02000001",
-            "event_name": "NORIBA10 Umeda",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000001_01_s.jpg",
-            "category": {
-                "category_id": "MC00000001",
-                "category_name": "5月27日（水）～6月2日（火）",
-                "color_code": "#FFFF00"
-            },
-            "spot": {
-                "spot_id": "SP00001012",
-                "spot_name": "NORIBA10 umeda",
-                "latitude": 34.7048255597799,
-                "longitude": 135.498988150533,
-                "address": "大阪市北区芝田１丁目１−３"
-            },
-            "description": "NORIBA10 Umeda<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000001/"
-        },
-        {
             "event_id": "EV02000004",
             "event_name": "グラングリーン大阪 南館バレースペース",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000004_01_s.jpg",
@@ -99,25 +80,6 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000006/"
         },
         {
-            "event_id": "EV02000007",
-            "event_name": "大阪ステーションシティノースゲートビルディング 11階 風の広場",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000007_01_s.jpg",
-            "category": {
-                "category_id": "MC00000001",
-                "category_name": "5月27日（水）～6月2日（火）",
-                "color_code": "#FFFF00"
-            },
-            "spot": {
-                "spot_id": "SP00001018",
-                "spot_name": "大阪ステーションシティノースゲートビルディング 11階 風の広場",
-                "latitude": 34.7032331790758,
-                "longitude": 135.494772723326,
-                "address": "大阪市北区梅田3-1-3 ルクア大阪"
-            },
-            "description": "大阪ステーションシティノースゲートビルディング 11階 風の広場<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000007/"
-        },
-        {
             "event_id": "EV02000008",
             "event_name": "阪急メンズ大阪 1階 プロモーションスペース 11",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000008_01_s.jpg",
@@ -158,7 +120,7 @@
         {
             "event_id": "EV02000010",
             "event_name": "阪急うめだ本店 コンコースウィンドー / 大阪梅田ツインタワーズ・ノース 1階 コンコース",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000010_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000010_01_s.png",
             "category": {
                 "category_id": "MC00000001",
                 "category_name": "5月27日（水）～6月2日（火）",
@@ -228,7 +190,7 @@
                 "longitude": 135.49325460181,
                 "address": "大阪市北区梅田3-2-123　イノゲート大阪 11F"
             },
-            "description": "APイノゲート大阪<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>香川裕樹<br><br>【プログラム名】<br>透明な構造体<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br><br>【営業時間】<br>9:30-18:00<br>※会議室のご利用状況によって変動する可能性がございます。<br><br>【会場】<br>ミーティングスペース APイノゲート大阪<br><br>【プログラム紹介】<br>高層階に位置する会場からの眺望やスケール感、貸し会議室としての機能といった、展示空間における複数の条件に着目し、それらを構造体の要素として参照したインスタレーションを制作する。<br><br>【WEBサイト】<br>https://www.tc-forum.co.jp/ap-inogateosaka/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000013/"
         },
         {
@@ -272,7 +234,7 @@
         {
             "event_id": "EV02000016",
             "event_name": "大阪駅前地下道イベントスペース（阪神梅田本店前）",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000016_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000016_01_s.jpeg",
             "category": {
                 "category_id": "MC00000001",
                 "category_name": "5月27日（水）～6月2日（火）",
@@ -285,7 +247,7 @@
                 "longitude": 135.496891,
                 "address": "大阪市北区梅田1"
             },
-            "description": "大阪駅前地下道イベントスペース（阪神梅田本店前）<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>Bas Kosters<br><br>【プログラム名】<br>UMEDA CREATIVE COLLEGE 2026<br><br>【期間】<br>6/1 mon. - 6/7 sun.<br>※専門学生との共創ワークショップは6/2 tue.- 6/3 wed.に開催<br><br>【営業時間】<br>期間中常設<br><br>【会場】<br>大阪駅前地下道イベントスペース (阪神梅田本店前)<br><br>【プログラム紹介】<br>日本のビジュアル文化に着想を得た作品を展示。鮮やかな色彩と手仕事が魅力の巨大タペストリー、自分らしくあることの力を象徴する佐賀県有田町での滞在制作作品《Sorry Boy》などが並びます。<br><br>期間中には専門学生との共創ワークショップも開催。学生たちが Bas Kosters 氏との対話を通じてその場でタペストリーを制作・展示します。",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000016/"
         },
         {
@@ -306,25 +268,6 @@
             },
             "description": "【アーティスト／ブランド】<br>イラストレーター、デザイナー、アニメーター総勢100名超 / wataboku<br><br>【プログラム名】<br>イラストレーターの仕事展2026 / wataboku solo exhibition「未完成」<br><br>【期間】<br>5/27 wed. - 6/2 tue.<br><br>【営業時間】<br>10:00-20:00<br>※いずれも最終日は17:00まで<br><br>【会場】<br>イラストレーターの仕事展2026 | 阪神梅田本店 8階 催場<br>wataboku solo exhibition | 阪神梅田本店 8階 ART GALLERY<br><br>【プログラム紹介】<br>イラストレーターの仕事展2026<br><br>ゲーム、マンガ、アニメ、VTuberなど、日本を代表するポップカルチャーに欠かせない存在であるイラストレーター。その活躍の場はポップカルチャーにとどまらず、音楽、TVCM、イベントなど多岐にわたり、現代日本のカルチャーやコンテンツにとって不可欠な存在となっています。そのイラストレーターに注目した仕事と人をご紹介する展示会です。<br><br>2025年開催の『ILLUSTRATORS EXPO / ILLUST.POSTER EXPO』 の後継展示会として６つのフィールドによって本展は構成されます。<br>■ILLUSTRATORS FIELD：現在日本で活躍する約60名以上のイラストレーターが既存作品もしくは「ものがたり」をテーマに描いたイラストレーション作品展。<br>■ILLUST. POSTER FIELD：10組のイラストレーターとデザイナーがコラボして『未来のベストセラー』をテーマに描いたポスター作品展。<br>■LOOP ANIME FIELD：15秒前後のループアニメーション作品をモニターにて会場再生展示。　<br>■POPUP FIELD：各作家の世界観を楽しむことができる展示会。<br>■DRAWING FIELD：直筆色紙の作品展。<br>■EVENT FIELD：サイン会、ライブペインティングを開催。<br><br>トップ画像：九島優（イラスト）・草野剛（デザイン）『イラストレーターの仕事展KV』<br>※出展者の詳細は、特設サイトよりご確認ください。<br><br>wataboku solo exhibition「未完成」<br><br>オリジナルアイコンである制服の少女SAIをモデルにした作品をソーシャルメディア上で展開し世界中にファンを拡大し続けているwataboku。<br>今年が最初の個展から10年目の年となり、今回の阪神梅田本店における初個展は10年間で培った経験をもとに原点回帰的に過去作を踏襲し、作家としての色を強くした内容で構成する。<br>アートギャラリーでの個展には直筆作品中心での出展に対し、阪神梅田本店同フロアで開催の総合イベント「イラストレーターの仕事展2026」にはデジタル作品で参加。OADにおける同期間でwatabokuの世界観を違う方向から体感できる機会となる。<br><br>【WEBサイト】<br>https://web.hh-online.jp/hanshin/contents/saiji/illust_work/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000017/"
-        },
-        {
-            "event_id": "EV02000018",
-            "event_name": "ミーティングスペース AP大阪駅前 APホール",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000018_01_s.jpg",
-            "category": {
-                "category_id": "MC00000001",
-                "category_name": "5月27日（水）～6月2日（火）",
-                "color_code": "#FFFF00"
-            },
-            "spot": {
-                "spot_id": "SP00001029",
-                "spot_name": "ミーティングスペース AP大阪駅前 APホール",
-                "latitude": 34.7004389287773,
-                "longitude": 135.498321446574,
-                "address": "大阪市北区梅田1-12-12 東京建物梅田ビル B1F・B2F（受付B1F）"
-            },
-            "description": "ＡＰ大阪駅前<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000018/"
         },
         {
             "event_id": "EV02000019",
@@ -479,25 +422,6 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000028/"
         },
         {
-            "event_id": "EV02000029",
-            "event_name": "大阪市中央公会堂",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000029_01_s.jpg",
-            "category": {
-                "category_id": "MC00000001",
-                "category_name": "5月27日（水）～6月2日（火）",
-                "color_code": "#FFFF00"
-            },
-            "spot": {
-                "spot_id": "SP00001040",
-                "spot_name": "大阪市中央公会堂",
-                "latitude": 34.6937337206669,
-                "longitude": 135.503998127024,
-                "address": "大阪市北区中之島1丁目1番27号"
-            },
-            "description": "大阪市中央公会堂<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000029/"
-        },
-        {
             "event_id": "EV02000030",
             "event_name": "アートエリア B1",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000030_01_s.jpg",
@@ -513,7 +437,7 @@
                 "longitude": 135.505243723325,
                 "address": "大阪市北区中之島1-1-1"
             },
-            "description": "アートエリアB1<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>HAKU by SWAG<br><br>【プログラム名】<br>Osaka Art ＆ Design 2026　HAKU by SWAG「Resonance」<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br>※期間中の定休日：月<br><br>【営業時間】<br>11:00-18:00<br><br>【会場】<br>アートエリアB1<br><br>【プログラム紹介】<br>目に見えないエネルギーを、純粋なマテリアルを通して物理世界へと引き戻し、空間全体を「共鳴箱」へと変容させるインスタレーション群。大阪で観測された過去の風のデータを参照し、目に見えない気象の記憶を「物理的な風と動き」として現在によみがえらせるキネティック・インスタレーション「WIND」をはじめに、世界で根底を形作っている「見えない巨大なリズム」のうごめきを直感的に体感させる作品を展示します。<br><br>【WEBサイト】<br>https://artarea-b1.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000030/"
         },
         {
@@ -629,44 +553,6 @@
             },
             "description": "【アーティスト／ブランド】<br>佐藤紘子/ BE / 黒田弥生<br><br>【プログラム名】<br>OSAKA DESIGN CENTER GALLERY 2026<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br>※期間中の休館日：土・日<br><br>【営業時間】<br>10:00-17:00<br><br>【会場】<br>大阪デザインセンター<br><br>【プログラム紹介】<br>様々なジャンルの才能が集う本展。ODC会員2名のデザイナーによる作品とUNKNOWN ASIAにて大阪デザインセンター賞を授与したアーティストの作品を屋内のパサージュに展示する。<br><br>まずUNKNOWN ASIAで大阪デザインセンター賞を受賞した佐藤紘子は、動物とこどもが一体化して存在している『わたしのなかの、わたし。』シリーズを発表。期間中、ライブペインティングも予定している。<br><br>日本の最高級のテキスタイルともいえる帯を唯一無二のプロダクトに生まれ変わらせるBEは、着物のリメイクの常識から解放し、アートとしての再構築を試みる。<br><br>想いを伝えるデザインを軸に活動する黒田弥生は、子どものソウゾウを育む知育玩具「nocilis」を通して、遊びの中から生まれる発見や創造を大切にする。期間中、ワークショップも開催予定。<br><br>トップ画像：佐藤紘子『シカなわたし』<br><br>【WEBサイト】<br>https://www.osakadc.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000036/"
-        },
-        {
-            "event_id": "EV02000037",
-            "event_name": "Osaka Metro 本町ビル エントランスホール",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000037_01_s.jpg",
-            "category": {
-                "category_id": "MC00000001",
-                "category_name": "5月27日（水）～6月2日（火）",
-                "color_code": "#FFFF00"
-            },
-            "spot": {
-                "spot_id": "SP00001048",
-                "spot_name": "Osaka Metro 本町ビル エントランスホール",
-                "latitude": 34.6831821535339,
-                "longitude": 135.500953988668,
-                "address": "大阪市中央区本町3丁目6-4"
-            },
-            "description": "Osaka Metro 本町ビル<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000037/"
-        },
-        {
-            "event_id": "EV02000038",
-            "event_name": "JR大阪環状線 西九条駅 高架下",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.jpg",
-            "category": {
-                "category_id": "MC00000001",
-                "category_name": "5月27日（水）～6月2日（火）",
-                "color_code": "#FFFF00"
-            },
-            "spot": {
-                "spot_id": "SP00001049",
-                "spot_name": "JR大阪環状線 西九条駅 高架下",
-                "latitude": 34.6823631363103,
-                "longitude": 135.466106181047,
-                "address": "大阪市此花区西九条3丁目15-13"
-            },
-            "description": "JR大阪環状線 西九条駅高架下<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000038/"
         },
         {
             "event_id": "EV02000039",
@@ -1011,25 +897,6 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000058/"
         },
         {
-            "event_id": "EV02000059",
-            "event_name": "Nano Gallery",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000059_01_s.jpg",
-            "category": {
-                "category_id": "MC00000001",
-                "category_name": "5月27日（水）～6月2日（火）",
-                "color_code": "#FFFF00"
-            },
-            "spot": {
-                "spot_id": "SP00001070",
-                "spot_name": "Nano Gallery",
-                "latitude": 34.650457400325,
-                "longitude": 135.513353950483,
-                "address": "大阪市天王寺区茶臼山町１－１９　米田ビル１Ｆ & 3F"
-            },
-            "description": "【アーティスト／ブランド】<br>-<br><br>【プログラム名】<br>『猫なのだぁ～！展』-猫だけのサーカス村-<br><br>【期間】<br>6/14 sun. - 6/28 sun.<br><br>【営業時間】<br>14:00-19:00<br><br>【会場】<br>ART community space<br>Nano Gallery<br><br>【プログラム紹介】<br>可愛い猫、紳士猫、怪しい猫、お色気いっぱいの猫まで、<br>サーカスの中にはあらゆる猫が集まりました。<br>底抜けに明るい表舞台、ちょっと隠微で哀愁漂う裏舞台、<br>サーカスは、色々な表情をもっています。<br><br>【WEBサイト】<br>https://nano-gallery.com/",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000059/"
-        },
-        {
             "event_id": "EV02000061",
             "event_name": "gallery &sing",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000061_01_s.jpg",
@@ -1064,13 +931,13 @@
                 "longitude": 135.473562958267,
                 "address": "大阪市住之江区北加賀屋５丁目４−６４"
             },
-            "description": "Super Studio Kitakagaya<br>（展示会場情報は準備中）",
+            "description": "【イベント名】<br>胃の中の埃<br><br>【イベント日】<br>5/29 fri. - 5/31 sun. <br><br>【イベント時間】<br>15:00-18:00<br><br>【会場】<br>Super Studio Kitakagaya（SSK）<br><br>【イベント紹介】<br>大阪出身のアーティスト三好彼流と、ドイツの彫刻家フィメル・レベッカ・茜による共同制作作品。外部から遮断された空間で、触れる／触れない選択を通じ、土と呼吸する皮膚のインスタレーションが鑑賞者の主体性と責任、不安定な地盤の概念を問いかける。<br><br>参加費：500円/回（約7分）<br>※各回1名の入れ替え制",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000062/"
         },
         {
             "event_id": "EV02000063",
             "event_name": "ハービス PLAZA ENT B1F 東エントランス",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000063_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000063_01_s.png",
             "category": {
                 "category_id": "MC00000001",
                 "category_name": "5月27日（水）～6月2日（火）",
@@ -1102,7 +969,7 @@
                 "longitude": 135.498988150533,
                 "address": "大阪市北区芝田１丁目１−３"
             },
-            "description": "NORIBA10 Umeda<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>-<br><br>【プログラム名】<br>OAD × ASUE Charity Art Auction<br><br>【期間】<br>6/9 tue. - 6/11 thu.<br><br>【営業時間】<br>11:00-19:00<br><br>【会場】<br>NORIBA10 umeda（「阪急大阪梅田駅」2階中央改札口を出てすぐ「阪急阪神MEETS」内​）<br><br>【プログラム紹介】<br>次世代クリエイターの育成と社会貢献を目指し、Osaka Art & Design初となるチャリティーアートオークションを開催。豊富な運営実績を持つ「ASUE Charity Art Auction」と共創し、アートを所有する楽しさや、新たな作家や作品との出会いを届けます。収益の一部は、独立行政法人 国際交流基金（The Japan Foundation、JF）を通じて寄付します。<br><br>また会場では、MUIC Kansaiが支援するデジタルギャラリー・プラットフォーム「HACKK TAG（ハックタグ）」の展示も。<br><br>出品作品：現代アート作品 約40点（絵画・版画・写真・彫刻など）<br>入札形式：競り上げ方式によるサイレントオークション<br>主催：大阪アート&デザイン実行委員会<br>企画運営：ASUE Charity Art Auction（CCCアートラボ / 株式会社Artfield）<br>協賛：MUIC Kansai<br>協力：NORIBA10 umeda / HACKK TAG（株式会社IDEABLE WORKS）<br><br>※トップ画像は、ASUE Charity Art Auction実績（参考イメージ）です。<br> <br>■5/27 wed.より、オンラインで作品公開予定： https://liveauction.artfield.jp/mem_goodslist?action=live&auctionKbn=1<br><br>■6/9 tue. 17:00-19:00 | レセプション開催 ※参加自由・ドリンクサービス有り<br>　チェコの作家・Vitによるライブパフォーマンス『一期一会』イベントも実施します。<br>　『一期一会』公式サイト ： https://ichigoichielive.com/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000001/"
         },
         {
@@ -1159,7 +1026,7 @@
                 "longitude": 135.494772723326,
                 "address": "大阪市北区梅田3-1-3 ルクア大阪"
             },
-            "description": "大阪ステーションシティノースゲートビルディング 11階 風の広場<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>-<br><br>【プログラム名】<br>VERY ASIA Chiang Mai<br><br>【期間】<br>6/4 thu. - 6/6 sat.<br><br>【営業時間】<br>17:00-22:00<br>※6/6 sat.のみ12:00-22:00<br><br>【会場】<br>大阪ステーションシティ ノースゲートビルディング 11階 風の広場<br><br>【プログラム紹介】<br>2025年の大阪・関西万博は158の国・地域が参加し、多様な文化や生活様式に触れる機会を創出しました。異文化体験は価値観を揺さぶり、視野を広げるとともに、文化を見つめ直す契機となります。VERY ASIAはその精神を継承し、アジア都市との文化交流を通じて都市文化の再発見を促します。2026年は歴史的寺院や工芸文化が息づくタイのチェンマイに着目し、JR大阪駅の公共空間でナイトマーケットや映像・音楽などの多彩な表現を展開し、異文化が交差する場を創出します。<br><br>【WEBサイト】",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000007/"
         },
         {
@@ -1203,7 +1070,7 @@
         {
             "event_id": "EV02000010",
             "event_name": "阪急うめだ本店 コンコースウィンドー / 大阪梅田ツインタワーズ・ノース 1階 コンコース",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000010_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000010_01_s.png",
             "category": {
                 "category_id": "MC00000002",
                 "category_name": "6月3日（水）～6月9日（火）",
@@ -1273,7 +1140,7 @@
                 "longitude": 135.49325460181,
                 "address": "大阪市北区梅田3-2-123　イノゲート大阪 11F"
             },
-            "description": "APイノゲート大阪<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>香川裕樹<br><br>【プログラム名】<br>透明な構造体<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br><br>【営業時間】<br>9:30-18:00<br>※会議室のご利用状況によって変動する可能性がございます。<br><br>【会場】<br>ミーティングスペース APイノゲート大阪<br><br>【プログラム紹介】<br>高層階に位置する会場からの眺望やスケール感、貸し会議室としての機能といった、展示空間における複数の条件に着目し、それらを構造体の要素として参照したインスタレーションを制作する。<br><br>【WEBサイト】<br>https://www.tc-forum.co.jp/ap-inogateosaka/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000013/"
         },
         {
@@ -1317,7 +1184,7 @@
         {
             "event_id": "EV02000016",
             "event_name": "大阪駅前地下道イベントスペース（阪神梅田本店前）",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000016_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000016_01_s.jpeg",
             "category": {
                 "category_id": "MC00000002",
                 "category_name": "6月3日（水）～6月9日（火）",
@@ -1330,27 +1197,8 @@
                 "longitude": 135.496891,
                 "address": "大阪市北区梅田1"
             },
-            "description": "大阪駅前地下道イベントスペース（阪神梅田本店前）<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>Bas Kosters<br><br>【プログラム名】<br>UMEDA CREATIVE COLLEGE 2026<br><br>【期間】<br>6/1 mon. - 6/7 sun.<br>※専門学生との共創ワークショップは6/2 tue.- 6/3 wed.に開催<br><br>【営業時間】<br>期間中常設<br><br>【会場】<br>大阪駅前地下道イベントスペース (阪神梅田本店前)<br><br>【プログラム紹介】<br>日本のビジュアル文化に着想を得た作品を展示。鮮やかな色彩と手仕事が魅力の巨大タペストリー、自分らしくあることの力を象徴する佐賀県有田町での滞在制作作品《Sorry Boy》などが並びます。<br><br>期間中には専門学生との共創ワークショップも開催。学生たちが Bas Kosters 氏との対話を通じてその場でタペストリーを制作・展示します。",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000016/"
-        },
-        {
-            "event_id": "EV02000018",
-            "event_name": "ミーティングスペース AP大阪駅前 APホール",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000018_01_s.jpg",
-            "category": {
-                "category_id": "MC00000002",
-                "category_name": "6月3日（水）～6月9日（火）",
-                "color_code": "#AAE571"
-            },
-            "spot": {
-                "spot_id": "SP00001029",
-                "spot_name": "ミーティングスペース AP大阪駅前 APホール",
-                "latitude": 34.7004389287773,
-                "longitude": 135.498321446574,
-                "address": "大阪市北区梅田1-12-12 東京建物梅田ビル B1F・B2F（受付B1F）"
-            },
-            "description": "ＡＰ大阪駅前<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000018/"
         },
         {
             "event_id": "EV02000019",
@@ -1558,7 +1406,7 @@
                 "longitude": 135.503998127024,
                 "address": "大阪市北区中之島1丁目1番27号"
             },
-            "description": "大阪市中央公会堂<br>（展示会場情報は準備中）",
+            "description": "【出演者】<br>「日建設計」勝山太郎・大谷弘明 / 倉方俊輔<br><br>【イベント名】<br>大阪建築の舞台裏 ― グラングリーン大阪と御堂筋<br><br>【イベント日】<br>6/3 wed.<br><br>【イベント時間】<br>18:00-20:00<br>※17:30開場<br><br>【会場】<br>大阪市中央公会堂<br><br>【イベント紹介】<br>大阪のまちを形づくってきた建築の「舞台裏」を、まち歩きがもっと楽しくなる視点でひもとくトークイベント。御堂筋沿いの都市デザインの変遷や、「グラングリーン大阪」など最新プロジェクトの設計プロセスを、大阪のまちづくりに深くかかわってきた「日建設計」と、建築史家の倉方俊輔が対話しつつ深堀りします。石張りなど素材のディティールから都市の開発手法の変遷まで、様々なスケールを横断しつつ、開発秘話など“人間味のある”エピソードも交えて、アート→デザイン→建築→都市のつながりを体感していただけます。<br><br>▼お申込みはこちらから<br><br>【WEBサイト】<br>https://pyntosaka01.peatix.com",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000029/"
         },
         {
@@ -1577,7 +1425,7 @@
                 "longitude": 135.505243723325,
                 "address": "大阪市北区中之島1-1-1"
             },
-            "description": "アートエリアB1<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>HAKU by SWAG<br><br>【プログラム名】<br>Osaka Art ＆ Design 2026　HAKU by SWAG「Resonance」<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br>※期間中の定休日：月<br><br>【営業時間】<br>11:00-18:00<br><br>【会場】<br>アートエリアB1<br><br>【プログラム紹介】<br>目に見えないエネルギーを、純粋なマテリアルを通して物理世界へと引き戻し、空間全体を「共鳴箱」へと変容させるインスタレーション群。大阪で観測された過去の風のデータを参照し、目に見えない気象の記憶を「物理的な風と動き」として現在によみがえらせるキネティック・インスタレーション「WIND」をはじめに、世界で根底を形作っている「見えない巨大なリズム」のうごめきを直感的に体感させる作品を展示します。<br><br>【WEBサイト】<br>https://artarea-b1.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000030/"
         },
         {
@@ -1710,27 +1558,8 @@
                 "longitude": 135.500953988668,
                 "address": "大阪市中央区本町3丁目6-4"
             },
-            "description": "Osaka Metro 本町ビル<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>Edra<br><br>【プログラム名】<br>Edraのプロダクトの展示とスタジオカンパーナによる Edraのプロダクトの特別展示、 彼らの活動を紹介するパネル展示、ドキュメンタリー上映等<br><br>【期間】<br>6/7 sun. - 6/14 sun.<br><br>【営業時間】<br>8:00-22:00<br><br>【会場】<br>Osaka Metro 本町ビル エントランスホール<br><br>【プログラム紹介】<br>イタリアが誇る至高の家具ブランド「Edra(エドラ)」。「Osaka Art & Design 2026」では、Osaka Metro 本町ビルのエントランスホールに、彼らが世界のデザイナーたちと生み出し続ける、唯一無二のアートピースとも呼べるプロダクト群が集結します。本展示の最大のハイライトとなるのが、ブラジルを代表するデザインユニット「スタジオカンパーナ」の特別展示です。Edra との 30 年にわたる比類なきパートナーシップと深い信頼のなかで生み出されてきた、珠玉のマスターピースたちを一堂にご体感いただけます。<br><br>さらに会場では、スタジオ設立40 周年を記念した特別なドキュメンタリー映画『WE THEOTHERS』(2024年制作)を上映いたします。2022 年に逝去した弟フェルナンドへの想いを胸に、兄ウンベルト自らが語り部となり、彼らの軌跡を辿る心揺さぶる作品です。故郷ブロタスでの壮大な自然公園プロジェクト「カンパーナ公園」の歩みや関係者の証言を織り交ぜながら、デザイン界に革命を起こした兄弟の愛と情熱を解き明かします。Edraの圧倒的な世界観とカンパーナ兄弟の魂に同時に触れる、特別な時間をお楽しみください。<br><br>【上映時間】10:00 / 12:00 / 14:00 / 16:00 / 18:00 / 20:00、各回55分<br><br>展示構成 ： ドット・アーキテクツ<br>協賛 ： 株式会社リビングハウス<br>協力 ： MUSE FACTORY OF PROJECTS<br>特別協賛 ： 株式会社タケナカ<br><br>【WEBサイト】<br>https://om-hommachi-bldg.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000037/"
-        },
-        {
-            "event_id": "EV02000038",
-            "event_name": "JR大阪環状線 西九条駅 高架下",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.jpg",
-            "category": {
-                "category_id": "MC00000002",
-                "category_name": "6月3日（水）～6月9日（火）",
-                "color_code": "#AAE571"
-            },
-            "spot": {
-                "spot_id": "SP00001049",
-                "spot_name": "JR大阪環状線 西九条駅 高架下",
-                "latitude": 34.6823631363103,
-                "longitude": 135.466106181047,
-                "address": "大阪市此花区西九条3丁目15-13"
-            },
-            "description": "JR大阪環状線 西九条駅高架下<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000038/"
         },
         {
             "event_id": "EV02000039",
@@ -2056,25 +1885,6 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000058/"
         },
         {
-            "event_id": "EV02000059",
-            "event_name": "Nano Gallery",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000059_01_s.jpg",
-            "category": {
-                "category_id": "MC00000002",
-                "category_name": "6月3日（水）～6月9日（火）",
-                "color_code": "#AAE571"
-            },
-            "spot": {
-                "spot_id": "SP00001070",
-                "spot_name": "Nano Gallery",
-                "latitude": 34.650457400325,
-                "longitude": 135.513353950483,
-                "address": "大阪市天王寺区茶臼山町１－１９　米田ビル１Ｆ & 3F"
-            },
-            "description": "【アーティスト／ブランド】<br>-<br><br>【プログラム名】<br>『猫なのだぁ～！展』-猫だけのサーカス村-<br><br>【期間】<br>6/14 sun. - 6/28 sun.<br><br>【営業時間】<br>14:00-19:00<br><br>【会場】<br>ART community space<br>Nano Gallery<br><br>【プログラム紹介】<br>可愛い猫、紳士猫、怪しい猫、お色気いっぱいの猫まで、<br>サーカスの中にはあらゆる猫が集まりました。<br>底抜けに明るい表舞台、ちょっと隠微で哀愁漂う裏舞台、<br>サーカスは、色々な表情をもっています。<br><br>【WEBサイト】<br>https://nano-gallery.com/",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000059/"
-        },
-        {
             "event_id": "EV02000060",
             "event_name": "太陽とハリネズミ",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000060_01_s.jpg",
@@ -2113,28 +1923,9 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000061/"
         },
         {
-            "event_id": "EV02000062",
-            "event_name": "Super Studio Kitakagaya",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000062_01_s.jpg",
-            "category": {
-                "category_id": "MC00000002",
-                "category_name": "6月3日（水）～6月9日（火）",
-                "color_code": "#AAE571"
-            },
-            "spot": {
-                "spot_id": "SP00001073",
-                "spot_name": "Super Studio Kitakagaya",
-                "latitude": 34.6247650458313,
-                "longitude": 135.473562958267,
-                "address": "大阪市住之江区北加賀屋５丁目４−６４"
-            },
-            "description": "Super Studio Kitakagaya<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000062/"
-        },
-        {
             "event_id": "EV02000063",
             "event_name": "ハービス PLAZA ENT B1F 東エントランス",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000063_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000063_01_s.png",
             "category": {
                 "category_id": "MC00000002",
                 "category_name": "6月3日（水）～6月9日（火）",
@@ -2166,7 +1957,7 @@
                 "longitude": 135.498988150533,
                 "address": "大阪市北区芝田１丁目１−３"
             },
-            "description": "NORIBA10 Umeda<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>-<br><br>【プログラム名】<br>OAD × ASUE Charity Art Auction<br><br>【期間】<br>6/9 tue. - 6/11 thu.<br><br>【営業時間】<br>11:00-19:00<br><br>【会場】<br>NORIBA10 umeda（「阪急大阪梅田駅」2階中央改札口を出てすぐ「阪急阪神MEETS」内​）<br><br>【プログラム紹介】<br>次世代クリエイターの育成と社会貢献を目指し、Osaka Art & Design初となるチャリティーアートオークションを開催。豊富な運営実績を持つ「ASUE Charity Art Auction」と共創し、アートを所有する楽しさや、新たな作家や作品との出会いを届けます。収益の一部は、独立行政法人 国際交流基金（The Japan Foundation、JF）を通じて寄付します。<br><br>また会場では、MUIC Kansaiが支援するデジタルギャラリー・プラットフォーム「HACKK TAG（ハックタグ）」の展示も。<br><br>出品作品：現代アート作品 約40点（絵画・版画・写真・彫刻など）<br>入札形式：競り上げ方式によるサイレントオークション<br>主催：大阪アート&デザイン実行委員会<br>企画運営：ASUE Charity Art Auction（CCCアートラボ / 株式会社Artfield）<br>協賛：MUIC Kansai<br>協力：NORIBA10 umeda / HACKK TAG（株式会社IDEABLE WORKS）<br><br>※トップ画像は、ASUE Charity Art Auction実績（参考イメージ）です。<br> <br>■5/27 wed.より、オンラインで作品公開予定： https://liveauction.artfield.jp/mem_goodslist?action=live&auctionKbn=1<br><br>■6/9 tue. 17:00-19:00 | レセプション開催 ※参加自由・ドリンクサービス有り<br>　チェコの作家・Vitによるライブパフォーマンス『一期一会』イベントも実施します。<br>　『一期一会』公式サイト ： https://ichigoichielive.com/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000001/"
         },
         {
@@ -2208,28 +1999,9 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000006/"
         },
         {
-            "event_id": "EV02000007",
-            "event_name": "大阪ステーションシティノースゲートビルディング 11階 風の広場",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000007_01_s.jpg",
-            "category": {
-                "category_id": "MC00000003",
-                "category_name": "6月10日（水）～6月16日（火）",
-                "color_code": "#9999FF"
-            },
-            "spot": {
-                "spot_id": "SP00001018",
-                "spot_name": "大阪ステーションシティノースゲートビルディング 11階 風の広場",
-                "latitude": 34.7032331790758,
-                "longitude": 135.494772723326,
-                "address": "大阪市北区梅田3-1-3 ルクア大阪"
-            },
-            "description": "大阪ステーションシティノースゲートビルディング 11階 風の広場<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000007/"
-        },
-        {
             "event_id": "EV02000010",
             "event_name": "阪急うめだ本店 コンコースウィンドー / 大阪梅田ツインタワーズ・ノース 1階 コンコース",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000010_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000010_01_s.png",
             "category": {
                 "category_id": "MC00000003",
                 "category_name": "6月10日（水）～6月16日（火）",
@@ -2299,7 +2071,7 @@
                 "longitude": 135.49325460181,
                 "address": "大阪市北区梅田3-2-123　イノゲート大阪 11F"
             },
-            "description": "APイノゲート大阪<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>香川裕樹<br><br>【プログラム名】<br>透明な構造体<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br><br>【営業時間】<br>9:30-18:00<br>※会議室のご利用状況によって変動する可能性がございます。<br><br>【会場】<br>ミーティングスペース APイノゲート大阪<br><br>【プログラム紹介】<br>高層階に位置する会場からの眺望やスケール感、貸し会議室としての機能といった、展示空間における複数の条件に着目し、それらを構造体の要素として参照したインスタレーションを制作する。<br><br>【WEBサイト】<br>https://www.tc-forum.co.jp/ap-inogateosaka/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000013/"
         },
         {
@@ -2339,44 +2111,6 @@
             },
             "description": "【プログラム】<br>複数プログラムが展開されます。<br>詳細は会場のホームページや、Osaka Art & Designのホームページのプログラムページ（以下に記載のURL）にてご確認ください。<br>※プログラムによって会期が異なる場合がございますのでご注意ください。<br><br>大丸梅田店 ホームページ<br>https://www.daimaru.co.jp/umedamise/260507osakaartanddesign/<br><br>New Wave Gallery<br>会場：6階～8階 南エスカレーター前<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_080<br><br>笹倉鉄平<br>画業35周年記念展 6日間だけの「笹倉鉄平ミュージアム」<br>会場：7階 特設会場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_076<br><br>silsil<br>silsil個展「Ever Becoming」<br>会場：7階 ART GALLERY UMEDA<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_077<br><br>ごまん<br>ごまんwireart展『Breathtaking』<br>会場：7階 ART GALLERY UMEDA<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_078<br><br>Kai Nobuyuki<br>『CREATURE × MARBLING Jun&apos;26』<br>会場：7階 ART GALLERY UMEDA<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_079",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000015/"
-        },
-        {
-            "event_id": "EV02000016",
-            "event_name": "大阪駅前地下道イベントスペース（阪神梅田本店前）",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000016_01_s.jpg",
-            "category": {
-                "category_id": "MC00000003",
-                "category_name": "6月10日（水）～6月16日（火）",
-                "color_code": "#9999FF"
-            },
-            "spot": {
-                "spot_id": "SP00001027",
-                "spot_name": "大阪駅前地下道イベントスペース（阪神梅田本店前）",
-                "latitude": 34.701549,
-                "longitude": 135.496891,
-                "address": "大阪市北区梅田1"
-            },
-            "description": "大阪駅前地下道イベントスペース（阪神梅田本店前）<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000016/"
-        },
-        {
-            "event_id": "EV02000018",
-            "event_name": "ミーティングスペース AP大阪駅前 APホール",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000018_01_s.jpg",
-            "category": {
-                "category_id": "MC00000003",
-                "category_name": "6月10日（水）～6月16日（火）",
-                "color_code": "#9999FF"
-            },
-            "spot": {
-                "spot_id": "SP00001029",
-                "spot_name": "ミーティングスペース AP大阪駅前 APホール",
-                "latitude": 34.7004389287773,
-                "longitude": 135.498321446574,
-                "address": "大阪市北区梅田1-12-12 東京建物梅田ビル B1F・B2F（受付B1F）"
-            },
-            "description": "ＡＰ大阪駅前<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000018/"
         },
         {
             "event_id": "EV02000019",
@@ -2531,25 +2265,6 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000028/"
         },
         {
-            "event_id": "EV02000029",
-            "event_name": "大阪市中央公会堂",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000029_01_s.jpg",
-            "category": {
-                "category_id": "MC00000003",
-                "category_name": "6月10日（水）～6月16日（火）",
-                "color_code": "#9999FF"
-            },
-            "spot": {
-                "spot_id": "SP00001040",
-                "spot_name": "大阪市中央公会堂",
-                "latitude": 34.6937337206669,
-                "longitude": 135.503998127024,
-                "address": "大阪市北区中之島1丁目1番27号"
-            },
-            "description": "大阪市中央公会堂<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000029/"
-        },
-        {
             "event_id": "EV02000030",
             "event_name": "アートエリア B1",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000030_01_s.jpg",
@@ -2565,7 +2280,7 @@
                 "longitude": 135.505243723325,
                 "address": "大阪市北区中之島1-1-1"
             },
-            "description": "アートエリアB1<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>HAKU by SWAG<br><br>【プログラム名】<br>Osaka Art ＆ Design 2026　HAKU by SWAG「Resonance」<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br>※期間中の定休日：月<br><br>【営業時間】<br>11:00-18:00<br><br>【会場】<br>アートエリアB1<br><br>【プログラム紹介】<br>目に見えないエネルギーを、純粋なマテリアルを通して物理世界へと引き戻し、空間全体を「共鳴箱」へと変容させるインスタレーション群。大阪で観測された過去の風のデータを参照し、目に見えない気象の記憶を「物理的な風と動き」として現在によみがえらせるキネティック・インスタレーション「WIND」をはじめに、世界で根底を形作っている「見えない巨大なリズム」のうごめきを直感的に体感させる作品を展示します。<br><br>【WEBサイト】<br>https://artarea-b1.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000030/"
         },
         {
@@ -2698,13 +2413,13 @@
                 "longitude": 135.500953988668,
                 "address": "大阪市中央区本町3丁目6-4"
             },
-            "description": "Osaka Metro 本町ビル<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>Edra<br><br>【プログラム名】<br>Edraのプロダクトの展示とスタジオカンパーナによる Edraのプロダクトの特別展示、 彼らの活動を紹介するパネル展示、ドキュメンタリー上映等<br><br>【期間】<br>6/7 sun. - 6/14 sun.<br><br>【営業時間】<br>8:00-22:00<br><br>【会場】<br>Osaka Metro 本町ビル エントランスホール<br><br>【プログラム紹介】<br>イタリアが誇る至高の家具ブランド「Edra(エドラ)」。「Osaka Art & Design 2026」では、Osaka Metro 本町ビルのエントランスホールに、彼らが世界のデザイナーたちと生み出し続ける、唯一無二のアートピースとも呼べるプロダクト群が集結します。本展示の最大のハイライトとなるのが、ブラジルを代表するデザインユニット「スタジオカンパーナ」の特別展示です。Edra との 30 年にわたる比類なきパートナーシップと深い信頼のなかで生み出されてきた、珠玉のマスターピースたちを一堂にご体感いただけます。<br><br>さらに会場では、スタジオ設立40 周年を記念した特別なドキュメンタリー映画『WE THEOTHERS』(2024年制作)を上映いたします。2022 年に逝去した弟フェルナンドへの想いを胸に、兄ウンベルト自らが語り部となり、彼らの軌跡を辿る心揺さぶる作品です。故郷ブロタスでの壮大な自然公園プロジェクト「カンパーナ公園」の歩みや関係者の証言を織り交ぜながら、デザイン界に革命を起こした兄弟の愛と情熱を解き明かします。Edraの圧倒的な世界観とカンパーナ兄弟の魂に同時に触れる、特別な時間をお楽しみください。<br><br>【上映時間】10:00 / 12:00 / 14:00 / 16:00 / 18:00 / 20:00、各回55分<br><br>展示構成 ： ドット・アーキテクツ<br>協賛 ： 株式会社リビングハウス<br>協力 ： MUSE FACTORY OF PROJECTS<br>特別協賛 ： 株式会社タケナカ<br><br>【WEBサイト】<br>https://om-hommachi-bldg.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000037/"
         },
         {
             "event_id": "EV02000038",
             "event_name": "JR大阪環状線 西九条駅 高架下",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.png",
             "category": {
                 "category_id": "MC00000003",
                 "category_name": "6月10日（水）～6月16日（火）",
@@ -2717,7 +2432,7 @@
                 "longitude": 135.466106181047,
                 "address": "大阪市此花区西九条3丁目15-13"
             },
-            "description": "JR大阪環状線 西九条駅高架下<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>-<br><br>【プログラム名】<br>大阪環状線 西九条駅 OK18番街<br><br>【期間】<br>6/12 fri.- 6/14 sun.<br><br>【営業時間】<br>6/12 17:00-21:00、6/13 11:00-21:00、6/14 11:00-18:00<br><br>【会場】<br>大阪環状線 西九条駅 高架下<br><br>【プログラム紹介】<br>大阪環状線は19駅それぞれが異なる都市文脈を持ち、再開発エリアから地域文化が残る街まで多様な表情を一周21.7㎞の地上ループで結んでいます。この世界的にも稀有な構造は単なる交通手段にとどまらず、文化活動を連鎖させる都市資産として捉えられます。途中下車や高架下空間の活用により偶発的な出会いや地域との接続を生み、移動そのものを体験へと転換します。本プログラムでは観光導線と地元生活導線が交差する西九条駅の高架下空間（OK18番街）を舞台に都市の文化的エコシステムを再定義します。",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000038/"
         },
         {
@@ -3101,28 +2816,9 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000060/"
         },
         {
-            "event_id": "EV02000062",
-            "event_name": "Super Studio Kitakagaya",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000062_01_s.jpg",
-            "category": {
-                "category_id": "MC00000003",
-                "category_name": "6月10日（水）～6月16日（火）",
-                "color_code": "#9999FF"
-            },
-            "spot": {
-                "spot_id": "SP00001073",
-                "spot_name": "Super Studio Kitakagaya",
-                "latitude": 34.6247650458313,
-                "longitude": 135.473562958267,
-                "address": "大阪市住之江区北加賀屋５丁目４−６４"
-            },
-            "description": "Super Studio Kitakagaya<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000062/"
-        },
-        {
             "event_id": "EV02000063",
             "event_name": "ハービス PLAZA ENT B1F 東エントランス",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000063_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000063_01_s.png",
             "category": {
                 "category_id": "MC00000003",
                 "category_name": "6月10日（水）～6月16日（火）",
@@ -3137,25 +2833,6 @@
             },
             "description": "【アーティスト／ブランド】<br>Vit<br><br>【プログラム名】<br>ICHIGO ICHIE 一期一会 アートシリーズ - Circle of Peace -<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br><br>【営業時間】<br>11:00 - 22:00<br>※一部営業時間の異なる店舗がございます<br><br>【会場】<br>ハービスPLAZA ENT B1東エントランス<br><br>【プログラム紹介】<br>Vitの作品は、静と動、制御と自由、そして明確な形と抽象的な表現のあいだにある、静かなバランスを探求しています。深い黒や鮮やかな白、そして力強い色彩のコントラストは、彼自身の歩んできた人生と、内にある穏やかな精神の状態を映し出しています。<br>彼の作品においては、形と余白が同じくらい重要な意味を持ちます。余白は単なる「空白」ではなく、他のすべてを存在させるための空間です。私たちに、目に見えるものだけでなく、見えないものにも意識を向けるよう促します。<br>制作のプロセスは、ゆっくりとした思索の時間でもあります。ひとつの線や形が置かれると、それを急いで進めることはありません。時間の中で静かに対話しながら、自然と作品が育ち、やがて完成へと導かれていきます。<br>Vitのアートは、単に「見るもの」ではありません。日常の喧騒から一歩離れ、立ち止まり、自分自身の内側にある静けさやバランスと再びつながるための「場」を生み出します。<br>このような考え方は、「一期一会（すべての瞬間は一度きりである）」や「間（余白や静けさの意味）」といった日本の思想とも深く響き合っています。<br>そしてそれらの思想は、ライブペインティング「ICHIGO ICHIE – Circle of Peace –」において、最も明確なかたちで表現されます。ここで大切なのは、作品そのものではなく、それが生まれる瞬間の内面の状態です。描くという行為そのものが、静かで現在に集中した、平和の体験となります。<br>作品はただ一度、その瞬間にのみ生まれ、同じものは二度と現れません。そして最後には、その作品は観客と分かち合われます。そこにあるのは「所有」ではなく、「共有される感覚」です。<br>その根底にあるのは、とてもシンプルな考えです。<br>「平和な人だけが、平和な世界をつくることができる。」<br>作品は、その瞬間の痕跡にすぎません。本当の意味は、それが生まれた心の状態と、そこから生まれる感覚にあります。<br><br>【WEBサイト】<br>https://www.herbis.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000063/"
-        },
-        {
-            "event_id": "EV02000001",
-            "event_name": "NORIBA10 Umeda",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000001_01_s.jpg",
-            "category": {
-                "category_id": "MC00000004",
-                "category_name": "6月17日（水）～6月23日（火）",
-                "color_code": "#FFC000"
-            },
-            "spot": {
-                "spot_id": "SP00001012",
-                "spot_name": "NORIBA10 umeda",
-                "latitude": 34.7048255597799,
-                "longitude": 135.498988150533,
-                "address": "大阪市北区芝田１丁目１−３"
-            },
-            "description": "NORIBA10 Umeda<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000001/"
         },
         {
             "event_id": "EV02000005",
@@ -3196,28 +2873,9 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000006/"
         },
         {
-            "event_id": "EV02000007",
-            "event_name": "大阪ステーションシティノースゲートビルディング 11階 風の広場",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000007_01_s.jpg",
-            "category": {
-                "category_id": "MC00000004",
-                "category_name": "6月17日（水）～6月23日（火）",
-                "color_code": "#FFC000"
-            },
-            "spot": {
-                "spot_id": "SP00001018",
-                "spot_name": "大阪ステーションシティノースゲートビルディング 11階 風の広場",
-                "latitude": 34.7032331790758,
-                "longitude": 135.494772723326,
-                "address": "大阪市北区梅田3-1-3 ルクア大阪"
-            },
-            "description": "大阪ステーションシティノースゲートビルディング 11階 風の広場<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000007/"
-        },
-        {
             "event_id": "EV02000010",
             "event_name": "阪急うめだ本店 コンコースウィンドー / 大阪梅田ツインタワーズ・ノース 1階 コンコース",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000010_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000010_01_s.png",
             "category": {
                 "category_id": "MC00000004",
                 "category_name": "6月17日（水）～6月23日（火）",
@@ -3287,7 +2945,7 @@
                 "longitude": 135.49325460181,
                 "address": "大阪市北区梅田3-2-123　イノゲート大阪 11F"
             },
-            "description": "APイノゲート大阪<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>香川裕樹<br><br>【プログラム名】<br>透明な構造体<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br><br>【営業時間】<br>9:30-18:00<br>※会議室のご利用状況によって変動する可能性がございます。<br><br>【会場】<br>ミーティングスペース APイノゲート大阪<br><br>【プログラム紹介】<br>高層階に位置する会場からの眺望やスケール感、貸し会議室としての機能といった、展示空間における複数の条件に着目し、それらを構造体の要素として参照したインスタレーションを制作する。<br><br>【WEBサイト】<br>https://www.tc-forum.co.jp/ap-inogateosaka/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000013/"
         },
         {
@@ -3329,25 +2987,6 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000015/"
         },
         {
-            "event_id": "EV02000016",
-            "event_name": "大阪駅前地下道イベントスペース（阪神梅田本店前）",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000016_01_s.jpg",
-            "category": {
-                "category_id": "MC00000004",
-                "category_name": "6月17日（水）～6月23日（火）",
-                "color_code": "#FFC000"
-            },
-            "spot": {
-                "spot_id": "SP00001027",
-                "spot_name": "大阪駅前地下道イベントスペース（阪神梅田本店前）",
-                "latitude": 34.701549,
-                "longitude": 135.496891,
-                "address": "大阪市北区梅田1"
-            },
-            "description": "大阪駅前地下道イベントスペース（阪神梅田本店前）<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000016/"
-        },
-        {
             "event_id": "EV02000018",
             "event_name": "ミーティングスペース AP大阪駅前 APホール",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000018_01_s.jpg",
@@ -3363,7 +3002,7 @@
                 "longitude": 135.498321446574,
                 "address": "大阪市北区梅田1-12-12 東京建物梅田ビル B1F・B2F（受付B1F）"
             },
-            "description": "ＡＰ大阪駅前<br>（展示会場情報は準備中）",
+            "description": "【イベント名】<br>description for ～ミラノデザインウィーク 2026 報告会 in 大阪<br><br>【イベント日】<br>6/20 sat.<br><br>【イベント時間】<br>18:00-21:00<br><br>【会場】<br>ミーティングスペース AP大阪駅前 APホール<br><br>【プログラム紹介】<br>世界最大級の家具&デザインのイベント、ミラノデザインウィークを総括。今年は大阪でのリアルな報告会が実現！青木昭夫（クリエイティブディレクター）×土田貴宏（デザインジャーナリスト）の両氏が独自の視点から現地の動向を伝える。<br><br>定員：100名様（事前予約制）<br>参加費：有料（詳しくはWEBサイトから）<br>※交流会あり<br><br>事前予約はWEBサイトから▼<br><br>【WEBサイト】<br>https://peatix.com/event/4990128",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000018/"
         },
         {
@@ -3500,25 +3139,6 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000028/"
         },
         {
-            "event_id": "EV02000029",
-            "event_name": "大阪市中央公会堂",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000029_01_s.jpg",
-            "category": {
-                "category_id": "MC00000004",
-                "category_name": "6月17日（水）～6月23日（火）",
-                "color_code": "#FFC000"
-            },
-            "spot": {
-                "spot_id": "SP00001040",
-                "spot_name": "大阪市中央公会堂",
-                "latitude": 34.6937337206669,
-                "longitude": 135.503998127024,
-                "address": "大阪市北区中之島1丁目1番27号"
-            },
-            "description": "大阪市中央公会堂<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000029/"
-        },
-        {
             "event_id": "EV02000030",
             "event_name": "アートエリア B1",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000030_01_s.jpg",
@@ -3534,7 +3154,7 @@
                 "longitude": 135.505243723325,
                 "address": "大阪市北区中之島1-1-1"
             },
-            "description": "アートエリアB1<br>（展示会場情報は準備中）",
+            "description": "【アーティスト／ブランド】<br>HAKU by SWAG<br><br>【プログラム名】<br>Osaka Art ＆ Design 2026　HAKU by SWAG「Resonance」<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br>※期間中の定休日：月<br><br>【営業時間】<br>11:00-18:00<br><br>【会場】<br>アートエリアB1<br><br>【プログラム紹介】<br>目に見えないエネルギーを、純粋なマテリアルを通して物理世界へと引き戻し、空間全体を「共鳴箱」へと変容させるインスタレーション群。大阪で観測された過去の風のデータを参照し、目に見えない気象の記憶を「物理的な風と動き」として現在によみがえらせるキネティック・インスタレーション「WIND」をはじめに、世界で根底を形作っている「見えない巨大なリズム」のうごめきを直感的に体感させる作品を展示します。<br><br>【WEBサイト】<br>https://artarea-b1.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000030/"
         },
         {
@@ -3631,44 +3251,6 @@
             },
             "description": "【アーティスト／ブランド】<br>佐藤紘子/ BE / 黒田弥生<br><br>【プログラム名】<br>OSAKA DESIGN CENTER GALLERY 2026<br><br>【期間】<br>5/27 wed. - 6/23 tue.<br>※期間中の休館日：土・日<br><br>【営業時間】<br>10:00-17:00<br><br>【会場】<br>大阪デザインセンター<br><br>【プログラム紹介】<br>様々なジャンルの才能が集う本展。ODC会員2名のデザイナーによる作品とUNKNOWN ASIAにて大阪デザインセンター賞を授与したアーティストの作品を屋内のパサージュに展示する。<br><br>まずUNKNOWN ASIAで大阪デザインセンター賞を受賞した佐藤紘子は、動物とこどもが一体化して存在している『わたしのなかの、わたし。』シリーズを発表。期間中、ライブペインティングも予定している。<br><br>日本の最高級のテキスタイルともいえる帯を唯一無二のプロダクトに生まれ変わらせるBEは、着物のリメイクの常識から解放し、アートとしての再構築を試みる。<br><br>想いを伝えるデザインを軸に活動する黒田弥生は、子どものソウゾウを育む知育玩具「nocilis」を通して、遊びの中から生まれる発見や創造を大切にする。期間中、ワークショップも開催予定。<br><br>トップ画像：佐藤紘子『シカなわたし』<br><br>【WEBサイト】<br>https://www.osakadc.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000036/"
-        },
-        {
-            "event_id": "EV02000037",
-            "event_name": "Osaka Metro 本町ビル エントランスホール",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000037_01_s.jpg",
-            "category": {
-                "category_id": "MC00000004",
-                "category_name": "6月17日（水）～6月23日（火）",
-                "color_code": "#FFC000"
-            },
-            "spot": {
-                "spot_id": "SP00001048",
-                "spot_name": "Osaka Metro 本町ビル エントランスホール",
-                "latitude": 34.6831821535339,
-                "longitude": 135.500953988668,
-                "address": "大阪市中央区本町3丁目6-4"
-            },
-            "description": "Osaka Metro 本町ビル<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000037/"
-        },
-        {
-            "event_id": "EV02000038",
-            "event_name": "JR大阪環状線 西九条駅 高架下",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000038_01_s.jpg",
-            "category": {
-                "category_id": "MC00000004",
-                "category_name": "6月17日（水）～6月23日（火）",
-                "color_code": "#FFC000"
-            },
-            "spot": {
-                "spot_id": "SP00001049",
-                "spot_name": "JR大阪環状線 西九条駅 高架下",
-                "latitude": 34.6823631363103,
-                "longitude": 135.466106181047,
-                "address": "大阪市此花区西九条3丁目15-13"
-            },
-            "description": "JR大阪環状線 西九条駅高架下<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000038/"
         },
         {
             "event_id": "EV02000039",
@@ -3956,28 +3538,9 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000060/"
         },
         {
-            "event_id": "EV02000062",
-            "event_name": "Super Studio Kitakagaya",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000062_01_s.jpg",
-            "category": {
-                "category_id": "MC00000004",
-                "category_name": "6月17日（水）～6月23日（火）",
-                "color_code": "#FFC000"
-            },
-            "spot": {
-                "spot_id": "SP00001073",
-                "spot_name": "Super Studio Kitakagaya",
-                "latitude": 34.6247650458313,
-                "longitude": 135.473562958267,
-                "address": "大阪市住之江区北加賀屋５丁目４−６４"
-            },
-            "description": "Super Studio Kitakagaya<br>（展示会場情報は準備中）",
-            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000062/"
-        },
-        {
             "event_id": "EV02000063",
             "event_name": "ハービス PLAZA ENT B1F 東エントランス",
-            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000063_01_s.jpg",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000063_01_s.png",
             "category": {
                 "category_id": "MC00000004",
                 "category_name": "6月17日（水）～6月23日（火）",
