@@ -1866,6 +1866,25 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000056/"
         },
         {
+            "event_id": "EV02000057",
+            "event_name": "あべのハルカス近鉄本店",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000057_01_s.jpg",
+            "category": {
+                "category_id": "MC00000002",
+                "category_name": "6月3日（水）～6月9日（火）",
+                "color_code": "#AAE571"
+            },
+            "spot": {
+                "spot_id": "SP00001068",
+                "spot_name": "あべのハルカス近鉄本店",
+                "latitude": 34.6460793650701,
+                "longitude": 135.513474330056,
+                "address": "大阪市阿倍野区阿倍野筋1-1-43"
+            },
+            "description": "【プログラム】<br>複数プログラムが展開されます。<br>詳細はOsaka Art & Designのホームページのプログラムページ（以下に記載のURL）にてご確認ください。<br>※プログラムによって会期が異なる場合がございますのでご注意ください。<br><br>かめいち堂（田島亮一）<br>かめいち堂のアートの世界<br>会場：2階 ウエルカムガレリア<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_056<br><br>大阪府花道家協会<br>6月6日はいけばなの日「大阪府花道家協会」いけばな展示<br>会場：2階 ウエルカムガレリア<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_058<br><br>うしぞら / みつたけたみこ / 佐藤紘子 / まり子＊<br>TATSUYA ART MARKET 2026<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_059<br><br>ハタヤママサオ<br>ハタヤママサオ ニューポップアートの世界<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_048<br><br>大西佑一<br>大西佑一 個展「内なる風景のカタチ｜The Form of Inner Landscape」<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_051<br><br>やまぎしあい<br>Tu m&apos;élèves<br>会場：タワー館 7階 森の広場前・ウイング館 7階 ロフト前<br>https://www.osaka-artanddesign.com/2026/programs/detail/c_009<br><br>山口暁<br>時の交差点<br>会場：タワー館 7階 森の広場<br>https://www.osaka-artanddesign.com/2026/programs/detail/c_024<br><br>大阪芸術大学附属大阪美術専門学校<br>大阪芸術大学附属大阪美術専門学校 版画ワークショップ<br>会場：タワー館 7階 森の広場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_055<br><br>Energetic SEI / Tomboy An<br>兄妹展3～二人が描く「UNITY」の現在地〜<br>会場：<br>2階 ウェルカムガレリア：ライブペイント、ワークショップ<br>会場：タワー館7階 特設会場（ロフト前）：アート展示販売<br>https://www.osaka-artanddesign.com/2026/programs/detail/b_001<br><br>社会福祉法人ゆうのゆう × 大阪教育大学附属天王寺小学校3年生 × 縁活事務局<br>縁活「ゆうのゆう」作品<br>会場：タワー館 7階 「街ステーション」 ほか<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_054<br><br>佐々木香菜子 / ダミアン・ハースト ほか<br>Contemporary Art Selection<br>会場：タワー館 11階 美術画廊<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_047<br><br>Takahiro Matsuo + EMISSION<br>Light Crystallized -光の結晶化-<br>会場：タワー館 11階 アートギャラリー<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_046<br><br>櫻井伸也<br>Shinya SAKURAI Solo Exhibition　Love Calls for Color<br>会場：タワー館 11階 アートギャラリー<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_050<br><br>土田康彦 / 古家野雄紀 ほか<br>第46回 秀美展<br>会場：ウイング館 8階 近鉄アート館<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_049<br><br>たいぞう ほか<br>輝く個性！こだわりストたちの世界 〜感性で触れるアート展〜<br>会場：ウイング館 9階 催会場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_052<br><br>大阪芸術大学 工芸学科<br>工芸のちから2026<br>会場：ウイング館 9階催会場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_053",
+            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000057/"
+        },
+        {
             "event_id": "EV02000058",
             "event_name": "あべのハルカス美術館",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000058_01_s.jpg",
@@ -1997,6 +2016,25 @@
             },
             "description": "【アーティスト／ブランド】<br>米山舞<br><br>【プログラム名】<br>グランフロント大阪 「ART SCRAMBLE」<br><br>【期間】<br>開催中<br>※2027年3月終了予定<br>※Osaka Art & Design 2026の会期は5月27日（水）〜 6月23日（火）<br><br>【営業時間】<br>期間中常設<br>※館内展示作品は6:00-24:30<br><br>【会場】<br>グランフロント大阪 うめきた広場 ほか<br><br>【プログラム紹介】<br>「グランフロント大阪」から全国、世界へと羽ばたくアーティストをサポートするアートプロジェクト「ART SCRAMBLE」。新進気鋭のアーティストによる作品を施設内に展示し、訪れる人々に驚きと発見をお届けしています。<br>第11弾として、米山舞の作品を複数点展示。動きや光、感情の揺らぎを繊細に描き出す、独自の世界観をお楽しみください。<br> <br>※作品により展示期間が異なります。詳細は公式HPをご確認ください。<br><br>【WEBサイト】<br>https://www.grandfront-osaka.jp/artscramble/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000006/"
+        },
+        {
+            "event_id": "EV02000009",
+            "event_name": "阪急うめだ本店 9階 祝祭広場",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000009_01_s.jpg",
+            "category": {
+                "category_id": "MC00000003",
+                "category_name": "6月10日（水）～6月16日（火）",
+                "color_code": "#9999FF"
+            },
+            "spot": {
+                "spot_id": "SP00001020",
+                "spot_name": "阪急うめだ本店 9階 祝祭広場",
+                "latitude": 34.7029949795839,
+                "longitude": 135.498435736819,
+                "address": "大阪市北区角田町8-7"
+            },
+            "description": "【プログラム】<br>複数プログラムが展開されます。<br>詳細は会場ホームページや、Osaka Art & Designのホームページのプログラムページ（以下に記載のURL）にてご確認ください。<br>※プログラムによって会期が異なる場合がございますのでご注意ください。<br><br>阪急うめだ本店 ホームページ<br>https://website.hankyu-dept.co.jp/honten/h/oad/index.html<br><br>平子雄一<br>NON NATURE<br>会場：<br>1階 コンコースウィンドー<br>9階 祝祭広場 / 阪急うめだギャラリー / アートステージ<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_061<br><br>青山明生 / 小林モー子 ほか<br>Wearable Art & Object LIMITED SHOP - Stories in Small Forms<br>会場：1階 プロモーションスペース11<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_066<br><br>ジャンパオロ・ファッラーニ<br>「トッズ ヴァカンツェ イタリアーネ」ポップアップ<br>会場：1階 コトコトステージ11<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_075<br><br>岩崎貴宏<br>「ANTEPRIMA」POP UP STORE －Fragile and Strength－<br>会場：1階 コトコトステージ11<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_074<br><br>NATURALLY PAINTING Co.<br>「コール ハーン」Customization Bar<br>会場：4階 コトコトステージ42<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_067<br><br>山崎円城<br>山崎円城 言葉のうつわ<br>会場：7階プロモーションスペース71<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_070<br><br>佐々木香菜子<br>FLOW & BLOOM ー 佐々木香菜子 meets Botanical<br>会場：7階 コトコトステージ71<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_068<br><br>塚本智也<br>塚本智也 個展「光の循環」<br>会場：8階 Contemporary Art Gallery<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_063<br><br>yutaokuda<br>yutaokuda solo exhibition &quot;With Gratitude&quot;<br>会場：<br>8階 Contemporary Art Gallery<br>1階 コトコトステージ11<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_062<br><br>SOMETA<br>RE：COLLECTION vol.1 SOMETA With &quot;F&quot;<br>会場：8階 コトコトステージ81<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_069<br><br>HERALBONY<br>HERALBONY ART PARK<br>会場：9階 祝祭広場<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_064<br><br>谷口智則<br>『谷口智則 絵本の世界』 “余白の美”が導くアートな子育て<br>会場：11階 コトコトステージ111<br>https://www.osaka-artanddesign.com/2026/programs/detail/28<br><br>京都・永楽屋<br>～伝統を守り、未来へつなぐ～ 京都・永楽屋 14世・細辻伊兵衛 てぬぐいアート展<br>会場：11階 コトコトステージ113<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_072",
+            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000009/"
         },
         {
             "event_id": "EV02000010",
@@ -2759,6 +2797,25 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000056/"
         },
         {
+            "event_id": "EV02000057",
+            "event_name": "あべのハルカス近鉄本店",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000057_01_s.jpg",
+            "category": {
+                "category_id": "MC00000003",
+                "category_name": "6月10日（水）～6月16日（火）",
+                "color_code": "#9999FF"
+            },
+            "spot": {
+                "spot_id": "SP00001068",
+                "spot_name": "あべのハルカス近鉄本店",
+                "latitude": 34.6460793650701,
+                "longitude": 135.513474330056,
+                "address": "大阪市阿倍野区阿倍野筋1-1-43"
+            },
+            "description": "【プログラム】<br>複数プログラムが展開されます。<br>詳細はOsaka Art & Designのホームページのプログラムページ（以下に記載のURL）にてご確認ください。<br>※プログラムによって会期が異なる場合がございますのでご注意ください。<br><br>かめいち堂（田島亮一）<br>かめいち堂のアートの世界<br>会場：2階 ウエルカムガレリア<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_056<br><br>大阪府花道家協会<br>6月6日はいけばなの日「大阪府花道家協会」いけばな展示<br>会場：2階 ウエルカムガレリア<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_058<br><br>うしぞら / みつたけたみこ / 佐藤紘子 / まり子＊<br>TATSUYA ART MARKET 2026<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_059<br><br>ハタヤママサオ<br>ハタヤママサオ ニューポップアートの世界<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_048<br><br>大西佑一<br>大西佑一 個展「内なる風景のカタチ｜The Form of Inner Landscape」<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_051<br><br>やまぎしあい<br>Tu m&apos;élèves<br>会場：タワー館 7階 森の広場前・ウイング館 7階 ロフト前<br>https://www.osaka-artanddesign.com/2026/programs/detail/c_009<br><br>山口暁<br>時の交差点<br>会場：タワー館 7階 森の広場<br>https://www.osaka-artanddesign.com/2026/programs/detail/c_024<br><br>大阪芸術大学附属大阪美術専門学校<br>大阪芸術大学附属大阪美術専門学校 版画ワークショップ<br>会場：タワー館 7階 森の広場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_055<br><br>Energetic SEI / Tomboy An<br>兄妹展3～二人が描く「UNITY」の現在地〜<br>会場：<br>2階 ウェルカムガレリア：ライブペイント、ワークショップ<br>会場：タワー館7階 特設会場（ロフト前）：アート展示販売<br>https://www.osaka-artanddesign.com/2026/programs/detail/b_001<br><br>社会福祉法人ゆうのゆう × 大阪教育大学附属天王寺小学校3年生 × 縁活事務局<br>縁活「ゆうのゆう」作品<br>会場：タワー館 7階 「街ステーション」 ほか<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_054<br><br>佐々木香菜子 / ダミアン・ハースト ほか<br>Contemporary Art Selection<br>会場：タワー館 11階 美術画廊<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_047<br><br>Takahiro Matsuo + EMISSION<br>Light Crystallized -光の結晶化-<br>会場：タワー館 11階 アートギャラリー<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_046<br><br>櫻井伸也<br>Shinya SAKURAI Solo Exhibition　Love Calls for Color<br>会場：タワー館 11階 アートギャラリー<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_050<br><br>土田康彦 / 古家野雄紀 ほか<br>第46回 秀美展<br>会場：ウイング館 8階 近鉄アート館<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_049<br><br>たいぞう ほか<br>輝く個性！こだわりストたちの世界 〜感性で触れるアート展〜<br>会場：ウイング館 9階 催会場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_052<br><br>大阪芸術大学 工芸学科<br>工芸のちから2026<br>会場：ウイング館 9階催会場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_053",
+            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000057/"
+        },
+        {
             "event_id": "EV02000058",
             "event_name": "あべのハルカス美術館",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000058_01_s.jpg",
@@ -2871,6 +2928,25 @@
             },
             "description": "【アーティスト／ブランド】<br>米山舞<br><br>【プログラム名】<br>グランフロント大阪 「ART SCRAMBLE」<br><br>【期間】<br>開催中<br>※2027年3月終了予定<br>※Osaka Art & Design 2026の会期は5月27日（水）〜 6月23日（火）<br><br>【営業時間】<br>期間中常設<br>※館内展示作品は6:00-24:30<br><br>【会場】<br>グランフロント大阪 うめきた広場 ほか<br><br>【プログラム紹介】<br>「グランフロント大阪」から全国、世界へと羽ばたくアーティストをサポートするアートプロジェクト「ART SCRAMBLE」。新進気鋭のアーティストによる作品を施設内に展示し、訪れる人々に驚きと発見をお届けしています。<br>第11弾として、米山舞の作品を複数点展示。動きや光、感情の揺らぎを繊細に描き出す、独自の世界観をお楽しみください。<br> <br>※作品により展示期間が異なります。詳細は公式HPをご確認ください。<br><br>【WEBサイト】<br>https://www.grandfront-osaka.jp/artscramble/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000006/"
+        },
+        {
+            "event_id": "EV02000009",
+            "event_name": "阪急うめだ本店 9階 祝祭広場",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000009_01_s.jpg",
+            "category": {
+                "category_id": "MC00000004",
+                "category_name": "6月17日（水）～6月23日（火）",
+                "color_code": "#FFC000"
+            },
+            "spot": {
+                "spot_id": "SP00001020",
+                "spot_name": "阪急うめだ本店 9階 祝祭広場",
+                "latitude": 34.7029949795839,
+                "longitude": 135.498435736819,
+                "address": "大阪市北区角田町8-7"
+            },
+            "description": "【プログラム】<br>複数プログラムが展開されます。<br>詳細は会場ホームページや、Osaka Art & Designのホームページのプログラムページ（以下に記載のURL）にてご確認ください。<br>※プログラムによって会期が異なる場合がございますのでご注意ください。<br><br>阪急うめだ本店 ホームページ<br>https://website.hankyu-dept.co.jp/honten/h/oad/index.html<br><br>平子雄一<br>NON NATURE<br>会場：<br>1階 コンコースウィンドー<br>9階 祝祭広場 / 阪急うめだギャラリー / アートステージ<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_061<br><br>青山明生 / 小林モー子 ほか<br>Wearable Art & Object LIMITED SHOP - Stories in Small Forms<br>会場：1階 プロモーションスペース11<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_066<br><br>ジャンパオロ・ファッラーニ<br>「トッズ ヴァカンツェ イタリアーネ」ポップアップ<br>会場：1階 コトコトステージ11<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_075<br><br>岩崎貴宏<br>「ANTEPRIMA」POP UP STORE －Fragile and Strength－<br>会場：1階 コトコトステージ11<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_074<br><br>NATURALLY PAINTING Co.<br>「コール ハーン」Customization Bar<br>会場：4階 コトコトステージ42<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_067<br><br>山崎円城<br>山崎円城 言葉のうつわ<br>会場：7階プロモーションスペース71<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_070<br><br>佐々木香菜子<br>FLOW & BLOOM ー 佐々木香菜子 meets Botanical<br>会場：7階 コトコトステージ71<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_068<br><br>塚本智也<br>塚本智也 個展「光の循環」<br>会場：8階 Contemporary Art Gallery<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_063<br><br>yutaokuda<br>yutaokuda solo exhibition &quot;With Gratitude&quot;<br>会場：<br>8階 Contemporary Art Gallery<br>1階 コトコトステージ11<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_062<br><br>SOMETA<br>RE：COLLECTION vol.1 SOMETA With &quot;F&quot;<br>会場：8階 コトコトステージ81<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_069<br><br>HERALBONY<br>HERALBONY ART PARK<br>会場：9階 祝祭広場<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_064<br><br>谷口智則<br>『谷口智則 絵本の世界』 “余白の美”が導くアートな子育て<br>会場：11階 コトコトステージ111<br>https://www.osaka-artanddesign.com/2026/programs/detail/28<br><br>京都・永楽屋<br>～伝統を守り、未来へつなぐ～ 京都・永楽屋 14世・細辻伊兵衛 てぬぐいアート展<br>会場：11階 コトコトステージ113<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_072",
+            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000009/"
         },
         {
             "event_id": "EV02000010",
@@ -3310,6 +3386,25 @@
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000043/"
         },
         {
+            "event_id": "EV02000044",
+            "event_name": "心斎橋 PARCO",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000044_01_s.jpg",
+            "category": {
+                "category_id": "MC00000004",
+                "category_name": "6月17日（水）～6月23日（火）",
+                "color_code": "#FFC000"
+            },
+            "spot": {
+                "spot_id": "SP00001055",
+                "spot_name": "心斎橋 PARCO",
+                "latitude": 34.6739884476627,
+                "longitude": 135.500914481047,
+                "address": "大阪市中央区心斎橋筋1-8-3"
+            },
+            "description": "【プログラム】<br>複数プログラムが展開されます。<br>詳細はOsaka Art & Designのホームページのプログラムページ（以下に記載のURL）にてご確認ください。<br>※プログラムによって会期が異なる場合がございますのでご注意ください。<br><br>五十嵐威暢<br>A–Z Homage to Takenobu Igarashi<br>会場：14階 PARCO HALL<br>https://www.osaka-artanddesign.com/2026/programs/detail/b_026<br><br>中尾博恵<br>中尾博恵 特集<br>会場：14階 PARCO HALL<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_088<br><br>篠原有司男<br>篠原有司男 特集<br>会場：14階 PARCO HALL<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_087<br><br>平田望<br>平田望 特集<br>会場：14階 PARCO HALL<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_086<br><br>ニック・ウォーカー<br>ニック・ウォーカー来日記念展<br>会場：14階 PARCO HALL<br>https://osaka-artanddesign.ecbeing.biz/2026/programs/detail/a_085",
+            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000044/"
+        },
+        {
             "event_id": "EV02000045",
             "event_name": "アクタス・心斎橋店",
             "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000045_01_s.jpg",
@@ -3498,6 +3593,25 @@
             },
             "description": "【アーティスト／ブランド】<br>-<br><br>【プログラム名】<br>開館90周年記念特別展「全力！名宝物語 ―大阪市美とたどる美のエピソード」<br><br>【期間】<br>開催中 - 6/21 sun.<br>前期：4/25 sat.- 5/24 sun. 後期：5/26 tue.- 6/21 sun.<br><br>※期間中の休館日：月<br>※Osaka Art & Design 2026の会期は5月27日（水）〜 6月23日（火）<br><br>【営業時間】<br>9:30-17:00<br>※入館は閉館30分前まで<br><br>【会場】<br>大阪市立美術館（天王寺公園内）<br><br>【プログラム紹介】<br>日本の公立美術館の中で三番目に古い伝統を持つ当館は、大規模改修工事を経て、現在も大阪の地に確固として息づいている。 本展は開館90周年を記念して、館蔵・寄託の名宝の数々を中心に展示し、美術館をめぐって紡がれた物語、美術に託された物語、そして美術の成立と未来への展望の物語を紹介する。<br><br>【WEBサイト】<br>https://www.osaka-art-museum.jp/",
             "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000056/"
+        },
+        {
+            "event_id": "EV02000057",
+            "event_name": "あべのハルカス近鉄本店",
+            "thumbnail_url": "https://drop.machiapps.com/collab-a/upload/assets/images/event/EV02000057_01_s.jpg",
+            "category": {
+                "category_id": "MC00000004",
+                "category_name": "6月17日（水）～6月23日（火）",
+                "color_code": "#FFC000"
+            },
+            "spot": {
+                "spot_id": "SP00001068",
+                "spot_name": "あべのハルカス近鉄本店",
+                "latitude": 34.6460793650701,
+                "longitude": 135.513474330056,
+                "address": "大阪市阿倍野区阿倍野筋1-1-43"
+            },
+            "description": "【プログラム】<br>複数プログラムが展開されます。<br>詳細はOsaka Art & Designのホームページのプログラムページ（以下に記載のURL）にてご確認ください。<br>※プログラムによって会期が異なる場合がございますのでご注意ください。<br><br>かめいち堂（田島亮一）<br>かめいち堂のアートの世界<br>会場：2階 ウエルカムガレリア<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_056<br><br>大阪府花道家協会<br>6月6日はいけばなの日「大阪府花道家協会」いけばな展示<br>会場：2階 ウエルカムガレリア<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_058<br><br>うしぞら / みつたけたみこ / 佐藤紘子 / まり子＊<br>TATSUYA ART MARKET 2026<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_059<br><br>ハタヤママサオ<br>ハタヤママサオ ニューポップアートの世界<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_048<br><br>大西佑一<br>大西佑一 個展「内なる風景のカタチ｜The Form of Inner Landscape」<br>会場：タワー館 2階 イベントスペース<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_051<br><br>やまぎしあい<br>Tu m&apos;élèves<br>会場：タワー館 7階 森の広場前・ウイング館 7階 ロフト前<br>https://www.osaka-artanddesign.com/2026/programs/detail/c_009<br><br>山口暁<br>時の交差点<br>会場：タワー館 7階 森の広場<br>https://www.osaka-artanddesign.com/2026/programs/detail/c_024<br><br>大阪芸術大学附属大阪美術専門学校<br>大阪芸術大学附属大阪美術専門学校 版画ワークショップ<br>会場：タワー館 7階 森の広場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_055<br><br>Energetic SEI / Tomboy An<br>兄妹展3～二人が描く「UNITY」の現在地〜<br>会場：<br>2階 ウェルカムガレリア：ライブペイント、ワークショップ<br>会場：タワー館7階 特設会場（ロフト前）：アート展示販売<br>https://www.osaka-artanddesign.com/2026/programs/detail/b_001<br><br>社会福祉法人ゆうのゆう × 大阪教育大学附属天王寺小学校3年生 × 縁活事務局<br>縁活「ゆうのゆう」作品<br>会場：タワー館 7階 「街ステーション」 ほか<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_054<br><br>佐々木香菜子 / ダミアン・ハースト ほか<br>Contemporary Art Selection<br>会場：タワー館 11階 美術画廊<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_047<br><br>Takahiro Matsuo + EMISSION<br>Light Crystallized -光の結晶化-<br>会場：タワー館 11階 アートギャラリー<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_046<br><br>櫻井伸也<br>Shinya SAKURAI Solo Exhibition　Love Calls for Color<br>会場：タワー館 11階 アートギャラリー<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_050<br><br>土田康彦 / 古家野雄紀 ほか<br>第46回 秀美展<br>会場：ウイング館 8階 近鉄アート館<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_049<br><br>たいぞう ほか<br>輝く個性！こだわりストたちの世界 〜感性で触れるアート展〜<br>会場：ウイング館 9階 催会場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_052<br><br>大阪芸術大学 工芸学科<br>工芸のちから2026<br>会場：ウイング館 9階催会場<br>https://www.osaka-artanddesign.com/2026/programs/detail/a_053",
+            "detail_url": "https://drop.machiapps.com/collab-a/event/EV02000057/"
         },
         {
             "event_id": "EV02000059",
